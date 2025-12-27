@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=FALKOME%20AI&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20Artificial%20Intelligence&descSize=20&descAlignY=55"/>
-
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_Website-falkomeai.com-8B5CF6?style=flat-square&labelColor=1e1e2e)](https://falkomeai.com/)
@@ -9,6 +8,8 @@
 [![Phone](https://img.shields.io/badge/📞_Call-+91--022--27890966-EC4899?style=flat-square&labelColor=1e1e2e)](#contact)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%E2%9A%A1+Computer+Vision+%7C+Deep+Learning;%F0%9F%A7%A0+Generative+AI+%7C+Automation;%F0%9F%94%AE+Transforming+Industries" alt="Typing SVG" />
+
+
 
 </div>
 
