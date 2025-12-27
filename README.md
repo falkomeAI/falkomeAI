@@ -166,20 +166,4 @@ Impact:  Thriving in the digital landscape
 
 ---
 
-## 〔 📜 〕License
 
-```
-MIT License • Copyright © 2025 Falkome AI
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:EC4899&height=120&section=footer"/>
-
-**`⭐ Star this repo if you find it useful!`**
-
-<sub>Built with 💜 by <b>Falkome AI Team</b></sub>
-
-</div>
